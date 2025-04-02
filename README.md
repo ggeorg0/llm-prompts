@@ -8,7 +8,7 @@ Promts are arranged according to the size of the models. If a prompt works with 
 ---
 ### Redactor/editor for english texts: fix grammar and puntuation 
 
-Tested with: **Llama3.2B**
+Tested with: **LLama3.2:3b**
 
 <details>
   
