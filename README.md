@@ -1,8 +1,8 @@
 # My LLM Prompts
 
-This repository contains useful system and user LLM prompts that I wrote for myself. The prompts are generally applicable to any LLM.
+This repository acts like a storage for my prompts for the Large Language Models (LLMs). These prompts are generally applicable to any modern LLM, but the specific behavior may vary from model to model.
 
-Promts are arranged according to the size of the models. If a prompt works with smaller models, it should also perform well with larger ones.
+Prompts are arranged according to the size of the models. If a prompt works with smaller models, it should also perform well with larger ones.
 
 ## >= 3B params
 ---
